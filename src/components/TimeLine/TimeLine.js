@@ -44,9 +44,11 @@ const Timeline = () => {
 
   return (
     <Section id='about'>
+      <SectionDivider />
+      <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Some Text
+        Hello, I&apos;m Mohit Gupta, a passionate and skilled web developer with a creative mindset and a knack for turning ideas into functional and visually appealing websites. In the ever-evolving world of web development, I thrive on crafting user-centered digital experiences that seamlessly blend aesthetics and functionality.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
