@@ -21,6 +21,6 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2021, text: 'Joined IIIT Kottayam for BTech' },
-  { year: 2022, text: 'Started Web Development' },
-
+  { year: 2023, text: 'Joined Marketrack as Full Stack Developer' },
+  { year: 2023, text: 'Web Development Club Lead at IIIT Kottayam' }
 ];
